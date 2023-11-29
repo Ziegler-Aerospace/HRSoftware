@@ -2,9 +2,11 @@
     "cSpell.words": [
         "astype",
         "dataframe",
+        "iloc",
         "iterrows",
         "padx",
         "pady",
+        "Pixmap",
         "skiprows",
         "tkfont",
         "yscroll"
